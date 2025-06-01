@@ -13,7 +13,7 @@ Fuente: Booch Grady. Análisis y diseño orientado a objetos
 </em></p>
 
 ## Enlaces
-[Documentos y guías de ejercicios](https://docs.google.com/document/d/1qGPbiIwmllmy1YvXGmMJ7zKOhPzcun4a4mG60zK98cE/preview?tab=t.0)
+[Documentos y guías de ejercicios](https://docs.google.com/document/d/1fS92AZCuvGXhTIzjkJ_JHZEpdgtA5P68tYixVeQimVA/preview)
 
 ---
 
