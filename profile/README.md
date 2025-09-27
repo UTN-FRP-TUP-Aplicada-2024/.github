@@ -1,4 +1,4 @@
-# 👋 UTN FRP TUP Aplicada 2024
+# 👋 UTN - FRP - TUP - Programación Aplicada - 2024
 
 --
 
